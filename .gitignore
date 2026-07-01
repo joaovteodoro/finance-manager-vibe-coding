@@ -1,0 +1,41 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Banco de dados (dados pessoais do usuário, não deve ir para o repo)
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribuição / build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Relatórios Excel gerados pelo app
+DRE_*.xlsx
+Balanco_*.xlsx
+
+# Variáveis de ambiente (se um dia adicionar)
+.env
+.env.*
+
+# Logs
+*.log
