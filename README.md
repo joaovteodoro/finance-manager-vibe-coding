@@ -1,5 +1,4 @@
-# Gestão Financeira Pessoal
-
+# Finance Manager Vibecoding
 Projeto desenvolvido como exercício prático do Bootcamp DIO + Lovable, com foco em vibe coding. O objetivo foi construir um software desktop funcional de gestão financeira pessoal, partindo apenas de descrições textuais de intenção e deixando a IA responsável pela geração do código.
 
 ## Sobre o projeto
